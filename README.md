@@ -27,13 +27,17 @@
 
 </p>
 
-## / Githubs Stats 📊/
+## / Coding Stats 📊/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ducnguyenhm&show_icons=true&locale=en&layout=compact" alt="ducnguyenhm" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnguyenhm&show_icons=true&locale=en" alt="ducnguyenhm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnguyenhm&" alt="ducnguyenhm" /></p>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/TooEazii)](https://leetcode.com/TooEazii/)
+
+
 
 
 
