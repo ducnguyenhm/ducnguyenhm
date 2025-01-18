@@ -7,7 +7,7 @@
   <ul> 
     <li> 📖 Computer Science and Mathematics Students at <a href="https://www.depauw.edu"> Depauw University </a></li>
      <li> 👨‍💼 Software Developer Intern at <a href="https://www.fpt-is.com"> FPT IS </li>
-    <li> 🤔 Enthusiastically interested in Competitive Programming and DevOps</li>
+    <li> 🤔 Enthusiastically interested in CP, Web Dev and Cloud Computing</li>
     <li> 🏅 Love playing sports such as soccer and table tennis </li>
   </ul>
 
